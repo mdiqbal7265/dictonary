@@ -18,7 +18,7 @@
             $email = $_POST['email'] ?? '';
             $password = $_POST['password'] ?? '';
 
-            if($username && $email && $password)
+            if($name && $email && $password)
             {
                 $password_hash = password_hash($password, PASSWORD_BCRYPT);
                 $query = "INSERT INTO user(name,email,password)VALUES('{$name}','{$email}','{$password_hash}')";

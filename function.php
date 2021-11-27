@@ -14,10 +14,10 @@
         $status = [
             '0' => '',
             '1' => 'Duplicate Email Addres ):',
-            '2' => 'Username Or password Empty!',
+            '2' => 'Email Or password Empty!',
             '3' => 'User Created Succesfully!!',
             '4' => 'Email & Password didn\'t match!',
-            '5' => 'Username doesn\'t exists',
+            '5' => 'Email doesn\'t exists',
             '6' => 'Field doesn\'t empty!. Data Not added. Try it again carefully!',
             '7' => 'Data added Succesfully!!',
             '8' => 'Something went wrong!! Please try again later',
