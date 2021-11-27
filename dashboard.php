@@ -98,7 +98,7 @@
         <div class="content-wrapper">
           <div class="page-header">
             <h3 class="page-title">
-              Web Dictonary
+              Web Dictionary
             </h3>
           </div>
           <?php 
