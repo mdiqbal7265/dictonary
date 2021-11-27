@@ -12,9 +12,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Melody Admin</title>
   <!-- plugins:css -->
-  <link rel="stylesheet" href="assets/vendors/iconfonts/font-awesome/css/all.min.css">
-  <link rel="stylesheet" href="assets/vendors/css/vendor.bundle.base.css">
-  <link rel="stylesheet" href="assets/vendors/css/vendor.bundle.addons.css">
+  <link rel="stylesheet" href="assets/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/vendor.bundle.base.css">
+  <link rel="stylesheet" href="assets/css/vendor.bundle.addons.css">
   <!-- endinject -->
 
   <!-- inject:css -->
@@ -214,8 +214,8 @@
   <!-- container-scroller -->
 
   <!-- plugins:js -->
-  <script src="assets/vendors/js/vendor.bundle.base.js"></script>
-  <script src="assets/vendors/js/vendor.bundle.addons.js"></script>
+  <script src="assets/js/vendor.bundle.base.js"></script>
+  <script src="assets/js/vendor.bundle.addons.js"></script>
   <!-- endinject -->
   <!-- Plugin js for this page-->
   <!-- End plugin js for this page-->
